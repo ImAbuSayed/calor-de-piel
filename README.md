@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/calor-de-piel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Calor de piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-de-piel/) |
+| **Get License** | [Get a Licensing Quote for Calor de piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-de-piel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `ab63d11aa02a9b7cf77bd352b9006b7f907458b3008b586f5e5b9557677fca89` |
 | **Timestamp** | June 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

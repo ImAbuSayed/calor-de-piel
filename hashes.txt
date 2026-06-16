@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Calor de piel
+
+This log tracks the cryptographic history and versioning for the song **Calor de piel** (calor-de-piel).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T15:13:25.187436 | `v1` | `ab63d11aa02a9b7cf77bd352b9006b7f907458b3008b586f5e5b9557677fca89` | `0b654a67217787b3fcca1466a422397bd35bd0f8eef8b3973ceadf4afc093cd8` | `2026-06-16_calor-de-piel-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/calor-de-piel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Calor de piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-de-piel/) |
+| **Get License** | [Secure Licensing Rights for Calor de piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-de-piel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Siento el calor de tu piel bailando en la oscuridad
+> Baby, you and me, perdidos en la inmensidad
+> Tus ojos me llaman, rompiendo toda la gravedad
+> Esta noche es nuestra, no hay vuelta a la realidad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
